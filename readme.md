@@ -1,10 +1,10 @@
 ## 快速启动小程序
 用微信开发者工具打开该文件下的mina文件夹即可
 
-=====================
-数据库的搭建
-python环境搭建 （可选：创建python3的虚拟环境）
-pip install -r requirements.txt 下载python所依赖的库
+## =========相关步骤(不全面)============
+1，数据库的搭建；
+2，python环境搭建 （可选：创建python3的虚拟环境）；
+3，pip install -r requirements.txt 下载python所依赖的库；
 
 首先切换到source /root/bin/activate 的python3虚拟环境
 关闭防火墙 systemctl stop firewalld（可选）
